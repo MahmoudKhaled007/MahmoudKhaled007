@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a highly skilled software engineer with 1+ years of experience in front-end and back-end web development using HTML, CSS, JavaScript, React, Flask, and Node.js. I excel in crafting efficient code, conducting rigorous testing, and adeptly troubleshooting issues. I'm also proficient in English and am a native Arabic speaker. I thrive on overcoming challenges through cross-functional teamwork and aim to drive results, making me a valuable asset to any team.
+I'm a highly skilled software engineer with 2+ years of experience in front-end and back-end web development using HTML, CSS, JavaScript, React, Flask, and Node.js. I excel in crafting efficient code, conducting rigorous testing, and adeptly troubleshooting issues. I'm also proficient in English and am a native Arabic speaker. I thrive on overcoming challenges through cross-functional teamwork and aim to drive results, making me a valuable asset to any team.
 
 
 ## 🌐 Socials:
