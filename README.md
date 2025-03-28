@@ -6,7 +6,7 @@
 
 🔹 Experienced in full-stack automation, intelligent log monitoring, and predictive analytics.
 
-🔹 Strong background in biotechnology, data science, and business automation, blending technical expertise with real-world impact.
+🔹 Expert at data science, business automation, and web development, blending technical expertise with real-world impact.
 
 
  ### What I Do 💡: 
