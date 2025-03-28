@@ -1,19 +1,30 @@
 👋 Hi, I'm Mahmoud Khaled!
+
 🚀 AI & Automation Engineer | RPA Developer | Data Science Enthusiast
 
 🔹 Passionate about automating complex processes and optimizing workflows with UiPath, Python, and AI-driven solutions.
+
 🔹 Experienced in full-stack automation, intelligent log monitoring, and predictive analytics.
+
 🔹 Strong background in biotechnology, data science, and business automation, blending technical expertise with real-world impact.
 
+
 💡 What I Do:
+
 ✅ Robotic Process Automation (RPA) – Building scalable automation solutions to drive efficiency.
+
 ✅ Data Science & AI – Leveraging machine learning for predictive insights and automation.
+
 ✅ End-to-End Automation – Integrating APIs, cloud platforms, and AI for seamless workflows.
+
 ✅ Full-Stack Development – Creating custom automation tools and web applications.
 
 🚀 Notable Projects:
+
 🔹 Intelligent Log Monitoring & Anomaly Detection – AI-driven log analysis for proactive system monitoring.
+
 🔹 Multi-Threaded Automation Framework – A high-speed, scalable RPA system with proxy rotation.
+
 🔹 Google Cloud API Integration – Automating Google Drive operations for seamless file management.
 
 🌍 Let's Connect!
