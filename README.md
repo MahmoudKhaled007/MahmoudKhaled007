@@ -1,4 +1,4 @@
-## Hi, I'm Mahmoud Khaled!
+## Hi, I'm Mahmoud Khaled! 👋
 
  ### AI & Automation Engineer | RPA Developer | Data Science Enthusiast 🚀
 
@@ -29,6 +29,7 @@
 
 🌍 Let's Connect!
 📫 Email: [mahmoudkhkamal@gmail.com]
+
 💼 LinkedIn: [https://www.linkedin.com/in/mahmoudkhaled07/]
 
 ## 🌐 Socials:
