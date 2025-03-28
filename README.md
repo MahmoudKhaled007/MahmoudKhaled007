@@ -19,14 +19,6 @@
 
 ✅ Full-Stack Development – Creating custom automation tools and web applications.
 
- ### Notable Projects 🚀:
-
-🔹 Intelligent Log Monitoring & Anomaly Detection – AI-driven log analysis for proactive system monitoring.
-
-🔹 Multi-Threaded Automation Framework – A high-speed, scalable RPA system with proxy rotation.
-
-🔹 Google Cloud API Integration – Automating Google Drive operations for seamless file management.
-
 🌍 Let's Connect!
 
 📫 Email: [mahmoud.khkamal@gmail.com]
