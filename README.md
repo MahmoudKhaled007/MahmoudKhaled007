@@ -1,6 +1,6 @@
-👋 ## Hi, I'm Mahmoud Khaled!
+## Hi, I'm Mahmoud Khaled!
 
-🚀 ### AI & Automation Engineer | RPA Developer | Data Science Enthusiast
+ ### AI & Automation Engineer | RPA Developer | Data Science Enthusiast 🚀
 
 🔹 Passionate about automating complex processes and optimizing workflows with UiPath, Python, and AI-driven solutions.
 
@@ -9,7 +9,7 @@
 🔹 Strong background in biotechnology, data science, and business automation, blending technical expertise with real-world impact.
 
 
-💡 ### What I Do:
+ ### What I Do 💡: 
 
 ✅ Robotic Process Automation (RPA) – Building scalable automation solutions to drive efficiency.
 
@@ -19,7 +19,7 @@
 
 ✅ Full-Stack Development – Creating custom automation tools and web applications.
 
-🚀 ### Notable Projects:
+ ### Notable Projects 🚀:
 
 🔹 Intelligent Log Monitoring & Anomaly Detection – AI-driven log analysis for proactive system monitoring.
 
@@ -28,8 +28,8 @@
 🔹 Google Cloud API Integration – Automating Google Drive operations for seamless file management.
 
 🌍 Let's Connect!
-📫 Email: [Your Email]
-💼 LinkedIn: [Your LinkedIn URL]
+📫 Email: [mahmoudkhkamal@gmail.com]
+💼 LinkedIn: [https://www.linkedin.com/in/mahmoudkhaled07/]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoudkhaled07/) 
