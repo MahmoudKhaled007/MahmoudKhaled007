@@ -19,8 +19,6 @@
 
 ✅ **Cloud LLMs (e.g., OpenAI, Claude, Gemini, Mistral via OpenRouter/HuggingFace):** I integrate powerful GenAI APIs to enable real-time automation, dynamic prompt engineering, and smart decision-making.
 
-✅ **Data Science & AI:** I use machine learning and data analytics to extract insights, create predictive models, and automate data-driven decisions.
-
 ✅ **End-to-End Automation:** I build complete workflow solutions by connecting APIs, databases, cloud platforms, and AI services into unified systems.
 
 ✅ **Full-Stack Development:** I develop custom automation platforms and web applications that combine intuitive frontends with powerful backend logic.
