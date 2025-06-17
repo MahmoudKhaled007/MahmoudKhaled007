@@ -1,6 +1,6 @@
 ## Hi, I'm Mahmoud Khaled! 👋
 
- ### AI & Automation Engineer | RPA Developer | Data Science Enthusiast 🚀
+ ### **RPA & LLM Engineer** | **AI Automation** | **Data Science Enthusiast** 🚀
 
 🔹 Passionate about automating complex processes and optimizing workflows with UiPath, Python, and AI-driven solutions.
 
@@ -11,13 +11,22 @@
 
  ### What I Do 💡: 
 
-✅ Robotic Process Automation (RPA) – Building scalable automation solutions to drive efficiency.
+✅ **Robotic Process Automation (RPA):** I design and deploy scalable automation solutions that streamline business operations, reduce manual effort, and enhance productivity.
 
-✅ Data Science & AI – Leveraging machine learning for predictive insights and automation.
+✅ **LLM-Powered Automation:** I work with both local and cloud-based Large Language Models (LLMs) to build intelligent and context-aware automation workflows.
 
-✅ End-to-End Automation – Integrating APIs, cloud platforms, and AI for seamless workflows.
+✅ **Local LLMs (e.g., Ollama, LM Studio, Transformers):** I implement secure, offline AI systems for document processing, chatbot assistants, and on-device inference pipelines.
 
-✅ Full-Stack Development – Creating custom automation tools and web applications.
+✅ **Cloud LLMs (e.g., OpenAI, Claude, Gemini, Mistral via OpenRouter/HuggingFace):** I integrate powerful GenAI APIs to enable real-time automation, dynamic prompt engineering, and smart decision-making.
+
+✅ **Data Science & AI:** I use machine learning and data analytics to extract insights, create predictive models, and automate data-driven decisions.
+
+✅ **End-to-End Automation:** I build complete workflow solutions by connecting APIs, databases, cloud platforms, and AI services into unified systems.
+
+✅ **Full-Stack Development:** I develop custom automation platforms and web applications that combine intuitive frontends with powerful backend logic.
+
+
+---
 
 🌍 Let's Connect!
 
